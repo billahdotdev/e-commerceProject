@@ -1,4 +1,4 @@
-# e-com is a online store
+# e-com is a online store(Shop)
 
 # Express server
 

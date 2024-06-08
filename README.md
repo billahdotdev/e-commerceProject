@@ -2,7 +2,7 @@
 
 # Express server
 
-# HTTP request & responses  
+# HTTP request & responses     
 
 # nodemon & morgan (v5)
 
